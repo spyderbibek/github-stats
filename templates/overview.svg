@@ -9,7 +9,7 @@ svg {
 #background {
   width: calc(100% - 10px);
   height: calc(100% - 10px);
-  fill: white;
+  fill: #292d3e;
   stroke: rgb(225, 228, 232);
   stroke-width: 1px;
   rx: 6px;
@@ -33,7 +33,7 @@ th {
   text-align: left;
   font-size: 14px;
   font-weight: 600;
-  color: rgb(3, 102, 214);
+  color: #c792ea;
 }
 
 td {
@@ -42,7 +42,7 @@ td {
   padding: 0.25em;
   font-size: 12px;
   line-height: 18px;
-  color: rgb(88, 96, 105);
+  color: #a6accd;
 }
 
 tr {
@@ -54,7 +54,7 @@ tr {
 }
 
 .octicon {
-  fill: rgb(88, 96, 105);
+  fill: #89ddff;
   margin-right: 1ch;
   vertical-align: top;
 }
